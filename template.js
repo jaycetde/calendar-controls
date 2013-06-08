@@ -1,0 +1,1 @@
+module.exports = '<td class="prev-month">&larr;</td>\n<td colspan="5">\n    <span class="month-select"></span>\n    <span class="year-select"></span>\n</td>\n<td class="next-month">&rarr;</td>';

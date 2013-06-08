@@ -1,0 +1,21 @@
+{
+  "name": "calendar-controls",
+  "repo": "JayceTDE/calendar-controls",
+  "description": "Bais\b\bc controls for JayceTDE/calendar",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "JayceTDE/calendar": "*",
+    "component/event": "*",
+    "component/range": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js", "template.js"
+  ],
+  "styles": [
+    "style.css"
+  ]
+}
